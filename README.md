@@ -1,5 +1,5 @@
 # health-website 
-# ➔ Medizin Medical
+
 
 This is a web based application developed for health related english based website in india
 
@@ -7,7 +7,7 @@ This is a web based application developed for health related english based websi
 Quess, Github and EY
 
 **Project Link** -  https://brave-bay-05cd57910.2.azurestaticapps.net     
-**Project demo Video link** - https://youtu.be/Wd76dJ_AzT4
+**Project demo Video link** - https://drive.google.com/file/d/17SC6JOcsSzuRDRqKFvqILe-GN1G0xCej/view
 
 ## Azure technologies used for Project
 
@@ -48,6 +48,3 @@ Quess, Github and EY
 
 ## 🖥️ Tech Stack 🖥️
 
-1. HTML
-2. CSS
-3. BOOTSTRAP
